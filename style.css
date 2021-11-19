@@ -18,5 +18,8 @@ max-width: 100%;
 	justify-content: center ;
 
 }
-
+.align {
+	margin-right: 2rem;
+    font-size: 40px;
+}
 
